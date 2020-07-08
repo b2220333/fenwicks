@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from . import io
 
 #from tensorflow.contrib.tpu.python.tpu import datasets as tpu_datasets
-!pip install tensorflow-addons
+#!pip install tensorflow-addons
 import tensorflow_addons
 import tensorflow_addons as tfa
 from tensorflow_addons.contrib.tpu.python.tpu import datasets as tpu_datasets
